@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exness", "Exness\Exness.csproj", "{0549DA34-E643-482E-A7AC-1805ED2E993D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExnessTests", "ExnessTests\ExnessTests.csproj", "{6C43F1CD-8F38-4E9C-921D-73CD009B90F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0549DA34-E643-482E-A7AC-1805ED2E993D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0549DA34-E643-482E-A7AC-1805ED2E993D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0549DA34-E643-482E-A7AC-1805ED2E993D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0549DA34-E643-482E-A7AC-1805ED2E993D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C43F1CD-8F38-4E9C-921D-73CD009B90F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C43F1CD-8F38-4E9C-921D-73CD009B90F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C43F1CD-8F38-4E9C-921D-73CD009B90F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C43F1CD-8F38-4E9C-921D-73CD009B90F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
